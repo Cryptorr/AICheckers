@@ -1,0 +1,2 @@
+# AICheckers
+AI Draught competation
